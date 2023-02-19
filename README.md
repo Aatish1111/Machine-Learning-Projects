@@ -5,5 +5,11 @@ I am trying to do 30 projects in Machine learning so as to enhance my knowledge 
 
 
 Project1: Prediction Of Sonar Rock Vs Mine (6 Feb 2023)
+
+
+
 Project2: Diabetes Prediction
+
+
+
 Project3: House price Prediction
